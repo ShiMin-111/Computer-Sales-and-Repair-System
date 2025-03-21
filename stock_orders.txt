@@ -1,0 +1,8 @@
+COM001	Dell XPS 13	20	2000.0	40000.0	Received	Wares
+COM002	MacBook Pro 16"	15	0.0	0.0	Received	Wares
+CPU001	AMD Ryzen 9 5950X	10	800.0	8000.0	Received	Repairs
+MB002	ASUS TUF Gaming X570-Plus	10	200.0	2000.0	Received	Wares
+KB001	Magic Keyboard	10	500.0	5000.0	Received	Repairs
+RAM001	Corsair Vengeance 16GB	20	40.0	800.0	Received	Repairs
+M001	Logitech G502	20	50.0	1000.0	Received	Wares
+SSD001	Crucial MX500 1TBSSD	10	100.0	1000.0	Pending	Repairs

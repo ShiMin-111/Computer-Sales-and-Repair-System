@@ -1,0 +1,7 @@
+COM001	Dell XPS 13	19	2400	Wares
+COM002	MacBook Pro 16"	14	4000	Wares
+CPU001	AMD Ryzen 9 5950X	10	800.0	Repairs
+MB001	ASUS TUF Gaming X570-Plus	9	200.0	Wares
+KB001	Magic Keyboard	10	500.0	Repairs
+RAM001	Corsair Vengeance 16GB	20	40.0	Repairs
+M001	Logitech G502	20	50.0	Wares

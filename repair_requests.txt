@@ -1,0 +1,2 @@
+shimin	Dell XPS 13	Software	Computer lag	Approved
+yunxuan	MacBook Pro 16"	Hardware	Keyboard no function when pressing	Pending

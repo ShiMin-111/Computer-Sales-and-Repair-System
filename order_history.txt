@@ -1,0 +1,4 @@
+shimin	COM001:Dell XPS 13:1:2400.0	2400.0	Paid	Delivered	5, Jalan KimKee, Muar	123553641
+shimin	MB001:ASUS TUF Gaming X570-Plus:1:200.0	200.0	Not Paid		N/A	N/A
+yunxuan	COM002:MacBook Pro 16":1:4000.0	4000.0	Paid	Delivered	4, Jalan Gembira, Bukit Gambir	123556485
+vivian	MB001:ASUS TUF Gaming X570-Plus:1:200.0	200.0	Paid	Packaging	8, Jln Merdeka, Tampin	132554265

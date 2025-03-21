@@ -1,0 +1,7 @@
+SuperUser	S001	janiceong	Justtest@09	Janice Ong Yixuan	N/A	791124-01-9512	janiceong@klccc.com	1012345678	Selangor	N/A	N/A
+Customer	C001	shimin	Shimin0/	Yu Shi Min	approved	050619-01-1718	shimin0619@gmail.com	1133306804	Johor	2024-08-15	2024-08-15
+Customer	C002	yunxuan	Yunxuan0*	Lee Yun Xuan	approved	050927-04-2258	yxlee@yahoo.com	176078088	Malacca	2024-08-15	2024-08-15
+InventoryStaff	S002	joanchua	Joan123/	Joan Chua	approved	040222-09-1246	joan54@gmail.com	1133202045	Perlis	2024-08-15	2024-08-15
+Admin	S003	yutung	Yutung0/	Thong Yu Tung	approved	050524-05-0328	yutung@yahoo.com	143553201	Negeri Sembilan	2024-08-15	2024-08-15
+Customer	C003	jytan	Jieyin0/	Tan Jie Yin	pending	050802-01-4236	jytan@gmail.com	176085269	Johor	2024-08-15	N/A
+Customer	C004	vivian	Vivian0/	Vivian Chew	approved	060607-02-0154	vv06@gmail.com	132654245	Kedah	2024-08-15	2024-08-15
